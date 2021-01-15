@@ -34,7 +34,7 @@
         "test:watch": "npm run test:build-watch & wtr"
     },
     "peerDependencies": {
-        "mobx": "^5.0.0",
+        "mobx": "^5.0.0 || ^6.0.0",
         "lit-element": "^2.0.0"
     },
     "devDependencies": {
